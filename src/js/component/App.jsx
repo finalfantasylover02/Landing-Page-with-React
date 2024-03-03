@@ -1,11 +1,14 @@
 import React from 'react';
-import Jumbotron from './Jumbotron';
+import Home from '../Home';
 import Cards from '../Cards';
+
 function App() {
-    return (
-      <div>
-        <Jumbotron /> <Cards/>
-      </div>
-    );
-  }
-export default App; 
+  return (
+    <div>
+      <Home />
+      <Cards />
+    </div>
+  );
+}
+
+export default App;
