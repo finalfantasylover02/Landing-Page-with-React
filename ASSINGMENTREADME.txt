@@ -1,0 +1,1 @@
+MY aspect of the project was the jumbotron and the cards

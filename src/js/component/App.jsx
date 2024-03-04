@@ -6,7 +6,11 @@ function App() {
   return (
     <div>
       <Home />
-      <Cards />
+      <div className="card-container" style={{ display: 'flex', flexWrap: 'wrap' }}>
+        <Cards />
+        <Cards />
+        <Cards/>
+      </div>
     </div>
   );
 }
