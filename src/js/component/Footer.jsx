@@ -2,7 +2,7 @@ import React from "react";
 function Footer(){
     return (
       <footer>
-        <p>© {new Date().getFullYear()} CopyRights</p>
+        <p>My Website© {new Date().getFullYear()}</p>
       </footer>
     );
   }

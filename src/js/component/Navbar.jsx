@@ -2,11 +2,12 @@ import React from "react";
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
-      <div className="container-fluid">
-        <a classsName="navbar-brand" href="#">
+      
+  <div className="container-fluid">
+    <a classsName="navbar-brand" href="#">
           Navbar
         </a>
-        <button
+<button
           className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
