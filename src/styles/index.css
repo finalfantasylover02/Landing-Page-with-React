@@ -25,3 +25,11 @@ footer{
 .navbar-nav {
   margin-left: auto; /* Move links to the right with auto margin */
 }
+.cards{
+  display: inline-flexbox;
+}
+.card-container {
+  margin: 0 auto; 
+  display: flex; 
+  justify-content: center; 
+}
