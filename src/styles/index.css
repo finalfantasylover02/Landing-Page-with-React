@@ -11,25 +11,28 @@
 
 */
 footer{
-    position: fixed; 
-  bottom: 0; 
-  width: 100%; 
-  background-color: gray; 
-  padding: 1rem; 
+  position: fixed; 
+bottom: 0; 
+width: 100%; 
+background-color: gray; 
+padding: 1rem; 
 }
 .navbar {
-  display: flex; /* Make the navbar container flexible */
-  justify-content: space-between; /* Distribute elements evenly on opposite sides */
-  align-items: center; /* Align navbar items vertically in the center */
+display: flex; /* Make the navbar container flexible */
+justify-content: space-between; /* Distribute elements evenly on opposite sides */
+align-items: center; /* Align navbar items vertically in the center */
+
 }
 .navbar-nav {
-  margin-left: auto; /* Move links to the right with auto margin */
+margin-left: auto; /* Move links to the right with auto margin */
 }
 .cards{
-  display: inline-flexbox;
+display: inline-flexbox;
 }
+
+
 .card-container {
-  margin: 0 auto; 
-  display: flex; 
-  justify-content: center; 
+margin: 0 auto; 
+display: flex; 
+justify-content: center; 
 }

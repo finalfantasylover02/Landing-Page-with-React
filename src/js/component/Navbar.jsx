@@ -5,8 +5,7 @@ const Navbar = () => {
       
   <div className="container-fluid">
     <a classsName="navbar-brand" href="#">
-          Navbar
-        </a>
+Beauty For You        </a>
 <button
           className="navbar-toggler"
           type="button"

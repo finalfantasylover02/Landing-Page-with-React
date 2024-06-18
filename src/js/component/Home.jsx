@@ -6,8 +6,9 @@ const Home = () => {
 	return (
 		<div className="jumbotron jumbotron-fluid bg-light">
   <div className="container">
-    <h1 className="display-4">Fluid jumbotron</h1>
-    <p className="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+    <h1 className="display-4">You Are An Icon!</h1>
+    <p className="lead"></p>
+
   </div>
 </div>
 	);
